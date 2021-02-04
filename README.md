@@ -10,6 +10,10 @@ This project is created from [template](https://github.com/khaitruong922/unity-2
 
 Desktop
 
+## Unity version
+
+2020.2.1f1
+
 ## Contributors
 
 - Contributor 1
