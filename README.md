@@ -1,6 +1,6 @@
 # Your Game Name
 
-This project is created from [template](https://github.com/khaitruong922/unity-2d-desktop-template/).
+This project is created from [template](https://github.com/WeCodeWhat/unity-2d-desktop-template/).
 
 ## Description
 
@@ -28,7 +28,7 @@ Desktop
 
 ## Installation
 
-Download the game [here](https://github.com/khaitruong922/unity-2d-desktop-template/)
+Download the game [here](https://github.com/WeCodeWhat/unity-2d-desktop-template/)
 
 ## Acknowledgement
 
